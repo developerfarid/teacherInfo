@@ -1,0 +1,105 @@
+.card-my img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: auto;
+}
+.card {
+  height: 100%;
+  cursor: pointer;
+}
+.card-my {
+  background-color: #4e4e50;
+  color: #fefffd;
+  border-radius: 15px;
+  transition: all 0.4s linear;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+.card-my::before {
+  position: absolute;
+  left: -150px;
+  top: -150px;
+  background-color: #940741;
+  width: 300px;
+  height: 300px;
+  content: "";
+  z-index: -1;
+  border-radius: 0 100% 100% 100%;
+  transition: 0.3s linear;
+}
+.card-my:hover {
+  transform: translateY(-15px);
+  box-shadow: 5px 8px 20px #c3084073, -3px -5px 15px #c30840b9;
+}
+.card-my:hover .btn-regular {
+  background-color: #c3083f;
+  color: #fefffd;
+}
+.card-my:hover .social li {
+  background-color: #c3083f;
+}
+.card-my:hover .social li:hover {
+  background-color: white;
+  color: #c3083f;
+}
+.card-my:hover .social li:hover a {
+  color: #c3083f;
+}
+.card-my:hover::before {
+  height: 150%;
+  width: 150%;
+  border-radius: 0 0 25% 25%;
+}
+.card-footer {
+  background-color: transparent;
+  border: none;
+}
+.btn-regular {
+  padding: 10px;
+  background-color: #940741;
+  color: black;
+  font-size: 18px;
+  font-weight: 600;
+}
+.btn-regular {
+  padding: 10px;
+  background-color: #940741;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  transition: all 0.3s linear;
+}
+.btn-icon {
+  margin-right: 5px;
+  display: inline-block;
+  font-size: 18px;
+}
+.social li {
+  list-style-type: none;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #940741;
+  margin: 0 5px;
+}
+.social li {
+  list-style-type: none;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #940741;
+  margin: 0 5px;
+  transition: 0.3s all linear;
+}
+.social li:hover {
+  background-color: #f1bbc6;
+}
+.social li a {
+  text-align: center;
+  display: block;
+  line-height: 50px;
+  font-size: 25px;
+  color: #fefffd;
+}

@@ -1,0 +1,15 @@
+.card2 img {
+  object-fit: cover;
+  width: 100%;
+  height: 100px;
+}
+.card-icon {
+  margin-left: 8px;
+  width: 30px !important;
+  height: 30px;
+  border-radius: 50px;
+  background-color: #c3083f;
+  display: inline-block;
+  padding: 5px;
+  color: white;
+}

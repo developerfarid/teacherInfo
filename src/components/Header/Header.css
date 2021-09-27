@@ -1,0 +1,14 @@
+.hero {
+  padding: 25px;
+  background-color: white;
+  border-radius: 25px;
+  margin-top: 25px;
+  text-align: center;
+}
+.my-nav li a {
+  font-size: 18px;
+  color: white;
+}
+.my-nav li a:hover {
+  color: white;
+}

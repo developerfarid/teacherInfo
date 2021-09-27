@@ -1,0 +1,137 @@
+[{
+        "name": "Mr Apon",
+        "position": "Associate Professor",
+        "qualification": "PhD, Peking University, China",
+        "department": "Statistics",
+        "salary": 80000,
+        "publications": 4,
+        "img": "https://duap.du.ac.bd/upload/img/aqf_monirulislam153.JPG",
+        "id": 1,
+        "key": "a101"
+    },
+    {
+        "name": "Mr Robin",
+        "position": "Associate Professor",
+        "qualification": "B.A(Hons). and M.A in Bengali(DU) ",
+        "department": "Bangla",
+        "salary": 80000,
+        "publications": 7,
+        "img": "https://duap.du.ac.bd/upload/img/aqf_mghulam.JPG",
+        "id": 2,
+        "key": "a102"
+    },
+    {
+        "name": "Mr Kamrul",
+        "position": "Associate Professor",
+        "qualification": "M.Phil. (JU)",
+        "department": "Bangla",
+        "salary": 70000,
+        "publications": 15,
+        "img": "https://duap.du.ac.bd/upload/img/aqf_mhasan.jpg",
+        "id": 3,
+        "key": "a103"
+    },
+
+    {
+        "name": "Mr Jibon Hossain",
+        "position": "Chairman",
+        "qualification": "Ph.D (RU)",
+        "department": "Information and Communication Engineering",
+        "salary": 100000,
+        "publications": 2,
+        "img": "https://ssl.du.ac.bd/fontView/assets/faculty_image/image_1500.jpg",
+        "id": 4,
+        "key": "a104"
+    },
+
+    {
+        "name": "Sathi Akter ",
+        "position": "Chairman",
+        "qualification": "PhD, Dhaka University, Bangladesh",
+        "department": "Bangla",
+        "salary": 100000,
+        "publications": 10,
+        "img": "https://duap.du.ac.bd/upload/img/aqf_whaque_du.jpg",
+        "id": 5,
+        "key": "a105"
+    },
+    {
+        "name": "Mr Jayed",
+        "position": "Associate Professor",
+        "qualification": "PhD, News University, India",
+        "department": "Bangla",
+        "salary": 80000,
+        "publications": 6,
+        "img": "https://ssl.du.ac.bd/fontView/assets/faculty_image/image_1503.jpeg",
+        "id": 6,
+        "key": "a106"
+    },
+
+    {
+        "name": "Mr Karim Hossain",
+        "position": "Associate Professor",
+        "qualification": "B.Sc(Hons.) and M.Sc in ICE (RU)",
+        "department": "Information and Communication Engineering",
+        "salary": 80000,
+        "publications": 3,
+        "img": "https://duap.du.ac.bd/upload/img/aqf_mmchowdhury.jpg",
+        "id": 7,
+        "key": "a107"
+    },
+    {
+        "name": "Mr Jahid",
+        "position": "Associate Professor",
+        "qualification": "B.Sc(Engineering) in ICE, PUST",
+        "department": "Information and Communication Engineering",
+        "salary": 80000,
+        "publications": 4,
+        "img": "https://duap.du.ac.bd/upload/img/aqf_goutam.kundu.jpg",
+        "id": 8,
+        "key": "a108"
+    },
+    {
+        "name": "Mr Ebrahim",
+        "position": "Professor",
+        "qualification": "B.Sc(Hons.) and M.Sc in Physics(RU) ",
+        "department": "Physics",
+        "salary": 90000,
+        "publications": 15,
+        "img": "https://duap.du.ac.bd/upload/img/aqf_hasanfaruque28.jpg",
+        "id": 9,
+        "key": "a109"
+    },
+    {
+        "name": "Md Firoj Hossain",
+        "position": "Professor",
+        "qualification": "B.Sc (Hons.) and M.Sc in Physics (RU)",
+        "department": "Physics",
+        "salary": 90000,
+        "publications": 12,
+        "img": "https://duap.du.ac.bd/upload/img/aqf_almamunhabib.jpg",
+        "id": 10,
+        "key": "a110"
+    },
+    {
+        "name": "Mr Washim",
+        "position": "Associate Professor",
+        "qualification": "B.Sc (Hons.), M.Sc in Economics (Du) ",
+        "department": "Economics",
+        "salary": 80000,
+        "publications": 15,
+        "img": "https://ssl.du.ac.bd/fontView/assets/faculty_image/aqf_shahneawz.jpg",
+        "id": 11,
+        "key": "a111"
+    },
+    {
+        "name": "Mr Makid Haider",
+        "position": "Associate Professor",
+        "qualification": "B.Sc (Hons.), M.Sc in Economics (JU)",
+        "department": "Economics",
+        "salary": 80000,
+        "publications": 10,
+        "img": "https://duap.du.ac.bd/upload/img/aqf_mostavi.enan.jpg",
+        "id": 12,
+        "key": "a112"
+    }
+
+]
